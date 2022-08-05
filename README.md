@@ -1,5 +1,4 @@
 ![Termux Logo](https://cdn.jsdelivr.net/gh/neutralinojs/neutralinojs.github.io@b667f2c2/docs/nllogo.png#gh-dark-mode-only)
-![Termux Logo](https://cdn.jsdelivr.net/gh/neutralinojs/neutralinojs.github.io@b667f2c2/docs/nllogo.png#gh-light-mode-only)
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/neutralinojs/neutralinojs)](https://github.com/neutralinojs/neutralinojs/releases)
 [![GitHub last commit](https://img.shields.io/github/last-commit/neutralinojs/neutralinojs.svg)](https://github.com/neutralinojs/neutralinojs/commits/main)
