@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[Dark(https://camo.githubusercontent.com/bcd2e8e127e0587f421465b88ef9e6791a9d07764412c38211ae09ae51a933c6/68747470733a2f2f63646e2e7261776769742e636f6d2f6e65757472616c696e6f6a732f6e65757472616c696e6f6a732e6769746875622e696f2f62363637663263322f646f63732f6e6c6c6f676f2e706e67){theme = dark}" style="width:300px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/neutralinojs/neutralinojs.github.io@b667f2c2/docs/nllogo.png#gh-dark-mode-only" style="width:300px;"/>
 </div>
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/neutralinojs/neutralinojs)](https://github.com/neutralinojs/neutralinojs/releases)
