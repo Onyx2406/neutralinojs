@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/neutralinojs/neutralinojs.github.io@b667f2c2/docs/nllogo.png#gh-dark-mode-only" style="width:300px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/neutralinojs/neutralinojs.github.io@b667f2c2/docs/nllogo.png#gh-light-mode-only" style="width:300px;"/>
 </div>
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/neutralinojs/neutralinojs)](https://github.com/neutralinojs/neutralinojs/releases)
